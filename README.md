@@ -16,12 +16,12 @@ The Power BI report file (`.pbix`) is hosted externally due to file size constra
 [Click here to access the PBIX file (Google Drive)](https://drive.google.com/file/d/14H9KtoLKbaQlHIiIBlEiqNQ1xl5-3_wj/view?usp=sharing
 )
 
-<img width="871" height="487" alt="image" src="https://github.com/user-attachments/assets/376fabcf-1fd7-406d-a0fe-1dfed38481f8" />
-<img width="860" height="485" alt="image" src="https://github.com/user-attachments/assets/fe375743-b935-4830-88f5-129732f872f2" />
-<img width="863" height="487" alt="image" src="https://github.com/user-attachments/assets/beb9d997-df29-4607-9a0c-7b19a42c40b1" />
-<img width="855" height="474" alt="image" src="https://github.com/user-attachments/assets/cc2d9d10-7038-45b4-b252-f04299d5e874" />
-<img width="854" height="478" alt="image" src="https://github.com/user-attachments/assets/d68f64ff-5d4c-47b2-ab90-4f8513d012aa" />
-<img width="878" height="491" alt="image" src="https://github.com/user-attachments/assets/115c17ce-76cf-4769-aad8-c19e91fc7230" />
+<img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/376fabcf-1fd7-406d-a0fe-1dfed38481f8" />
+<img width="870" height="485" alt="image" src="https://github.com/user-attachments/assets/fe375743-b935-4830-88f5-129732f872f2" />
+<img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/beb9d997-df29-4607-9a0c-7b19a42c40b1" />
+<img width="870" height="474" alt="image" src="https://github.com/user-attachments/assets/cc2d9d10-7038-45b4-b252-f04299d5e874" />
+<img width="870" height="478" alt="image" src="https://github.com/user-attachments/assets/d68f64ff-5d4c-47b2-ab90-4f8513d012aa" />
+<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/115c17ce-76cf-4769-aad8-c19e91fc7230" />
 
 
 
