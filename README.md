@@ -1,9 +1,6 @@
 # Data_Analytics_Mini_Project
 ## ✈️ Flight Delay Analysis – January 2015
 
-https://drive.google.com/file/d/14H9KtoLKbaQlHIiIBlEiqNQ1xl5-3_wj/view?usp=sharing
-
-
 This data analytics mini project explores **flight delay patterns for January 2015** using a publicly available aviation dataset commonly used for learning and practice. The analysis focuses on approximately **500,000 flight records**, covering schedule adherence, arrival delays, cancellations, taxi times, and delay causes across airlines and origin airports. The goal is to understand **when delays occur, which entities are most impacted, and what operational factors contribute to delays**, using structured analysis and visual storytelling.
 
 Data cleaning was performed in **Excel**, followed by data transformation, modeling, DAX calculations, and dashboard development in **Power BI Desktop**. The report features a **multi-page interactive dashboard** with KPIs, trend analysis, airline and airport performance comparisons, root-cause breakdowns, and drill-through functionality for flight-level exploration. The project demonstrates an end-to-end analytics workflow with an emphasis on **clean data, meaningful measures, interactivity, and storytelling**.
