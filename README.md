@@ -9,7 +9,7 @@ Data cleaning was performed in **Excel**, followed by data transformation, model
 
 The Power BI report file (`.pbix`) is hosted externally due to file size constraints.
 
-🔗 **Download the Power BI report:**  
+🔗 **Click the download link to access the interactive, data-driven Power BI report**  
 [Click here to access the PBIX file (Google Drive)](https://drive.google.com/file/d/14H9KtoLKbaQlHIiIBlEiqNQ1xl5-3_wj/view?usp=sharing
 )
 
